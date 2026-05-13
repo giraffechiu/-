@@ -1,0 +1,8 @@
+{
+  "name": "Ad Variation Builder Pro",
+  "description": "Generate batch social ad variations by replacing products in a sample ad with AI while maintaining consistent style and layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
